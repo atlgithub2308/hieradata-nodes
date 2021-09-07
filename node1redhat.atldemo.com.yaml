@@ -1,2 +1,2 @@
 ---
-role: 'roles::rhel8::web_tomcat'
+role: 'roles::rhel8::base'
