@@ -1,1 +1,8 @@
---- {}
+--- 
+{
+
+pe_r10k::forge_settings:
+  authorization_token: 'a52260f9ab1da6635b683627fadaccf56b2d391d02a7f0eb434a31295b2a7436'
+  baseurl: 'https://forgeapi.puppet.com'
+
+}
