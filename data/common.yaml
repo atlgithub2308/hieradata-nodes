@@ -1,4 +1,5 @@
 ---
+
 pe_r10k::forge_settings:
   authorization_token: 'Bearer 80e34c285f0da2f75ac236a6a8ab4329df26197b207457cb51f1090dfdd033bd'
   baseurl: 'https://forgeapi.puppet.com'
